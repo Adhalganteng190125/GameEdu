@@ -1,0 +1,11 @@
+-- Ringkasan skema database GameEdu (lihat sql/migrations/ untuk definisi lengkap & urutan jalannya)
+--
+-- soal            : bank soal (pertanyaan, tingkat kesulitan C1-C6, status review)
+-- kelas           : kelas yang diampu guru (contoh: "XI IPA 2")
+-- siswa           : siswa yang terdaftar pada suatu kelas
+-- sesi_game       : sesi permainan yang dibuat guru (Speed Clash, Territory Grid, dll)
+-- sesi_game_soal  : relasi many-to-many antara sesi_game dan soal
+-- jawaban         : jawaban siswa pada suatu sesi_game
+--
+-- Jalankan migrasi dengan: npm run db:migrate
+-- Jalankan seed dengan   : npm run db:seed

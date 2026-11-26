@@ -1,0 +1,29 @@
+{
+  "name": "gameedu",
+  "private": true,
+  "version": "0.1.0",
+  "description": "GameEdu - Platform Game Edukasi (Web, Smartboard, Mobile) - Pemrograman Web II",
+  "workspaces": [
+    "frontend/*",
+    "backend",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=frontend/web",
+    "dev:backend": "npm run dev --workspace=backend",
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:web\"",
+    "build:web": "npm run build --workspace=frontend/web",
+    "build:backend": "npm run build --workspace=backend",
+    "build": "npm run build:backend && npm run build:web",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down",
+    "db:migrate": "npm run migrate --workspace=backend",
+    "db:seed": "npm run seed --workspace=backend"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

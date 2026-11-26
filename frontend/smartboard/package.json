@@ -1,0 +1,9 @@
+{
+  "name": "@gameedu/smartboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tampilan Smartboard - media interaktif guru & siswa. Dikembangkan pada Milestone 2.",
+  "scripts": {
+    "dev": "echo 'frontend/smartboard belum diimplementasikan - rencana Milestone 2'"
+  }
+}
