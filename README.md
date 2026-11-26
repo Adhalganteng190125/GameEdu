@@ -77,7 +77,7 @@ npm run dev
 |---|---|---|
 | M adhal muntaha | 2455202052 |Anggota |
 | Lutfhi Kurniawan | 2455202082 |Anggota |
-| _Anggota 3_ | Anggota | |
+| Citra Khusnul Arifah | 2455202017 |Anggota |
 | _Anggota 4_ | Anggota | |
 
 > Lengkapi tabel ini dengan data anggota kelompok kalian yang sebenarnya.
