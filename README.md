@@ -75,7 +75,7 @@ npm run dev
 
 | Nama | Peran | GitHub |
 |---|---|---|
-| _Nama Ketua Kelompok_ | Ketua Kelompok | |
+| M adhal muntaha | Ketua Kelompok | |
 | _Anggota 2_ | Anggota | |
 | _Anggota 3_ | Anggota | |
 | _Anggota 4_ | Anggota | |
