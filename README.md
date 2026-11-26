@@ -76,7 +76,7 @@ npm run dev
 | Nama | Nim | Peran |
 |---|---|---|
 | M adhal muntaha | 2455202052 |Anggota |
-| _Anggota 2_ | Anggota | |
+| Lutfhi Kurniawan | 2455202082 |Anggota |
 | _Anggota 3_ | Anggota | |
 | _Anggota 4_ | Anggota | |
 
