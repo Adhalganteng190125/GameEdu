@@ -79,7 +79,7 @@ npm run dev
 | Lutfhi Kurniawan | 2455202082 |Anggota |
 | Citra Khusnul Arifah | 2455202017 |Anggota |
 | Ismi Umayah | 2455202076 | Anggota |
-| Nama| 24552020 | Anggota |
+| Alsya absiah| 2455202007| Anggota |
 
 > Lengkapi tabel ini dengan data anggota kelompok kalian yang sebenarnya.
 
